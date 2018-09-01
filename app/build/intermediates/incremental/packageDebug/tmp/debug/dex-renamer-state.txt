@@ -1,0 +1,19 @@
+#Sat Sep 01 20:23:23 MSK 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=C\:\\Android_Project\\Test\\NewsProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1517
+base.4=C\:\\Android_Project\\Test\\NewsProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1514
+base.3=C\:\\Android_Project\\Test\\NewsProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1513
+base.2=C\:\\Android_Project\\Test\\NewsProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1516
+base.1=C\:\\Android_Project\\Test\\NewsProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1515
+base.0=C\:\\Android_Project\\Test\\NewsProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1518
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex
