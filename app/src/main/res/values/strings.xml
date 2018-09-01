@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="CategoriesChooser">Выбери свой спорт:</string>
+    <string-array name="categories">
+        <item>Football</item>
+        <item>Hockey</item>
+        <item>Tennis</item>
+        <item>Basketball</item>
+        <item>Volleyball</item>
+        <item>Cybersport</item>
+    </string-array>
+</resources>
